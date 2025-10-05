@@ -1,4 +1,3 @@
- 
 # 🧬 Week 7 — Bioinformatics for Pathogen Genomic Surveillance  
 **Date:** 29 September – 3 October  
 **Compiled by:** Joel Alukwe  
