@@ -1,5 +1,5 @@
  
-readme_md_content = """# 🧬 Week 7 — Bioinformatics for Pathogen Genomic Surveillance  
+# 🧬 Week 7 — Bioinformatics for Pathogen Genomic Surveillance  
 **Date:** 29 September – 3 October  
 **Compiled by:** Joel Alukwe  
 
@@ -86,10 +86,4 @@ This program is supported by:
 - **Stellenbosch University**  
 
 ---
-"""
 
-readme_filename = "/mnt/data/README_Week7_Bioinformatics_Joel_Alukwe.md"
-with open(readme_filename, "w") as f:
-    f.write(readme_md_content)
-
-readme_filename
